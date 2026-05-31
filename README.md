@@ -49,25 +49,44 @@ Building intelligent systems and AI-powered applications through code, creativit
 
 ## 📌 Featured Projects
 
-### ✍️ Signature Fraud Detection System
+🔥 **AI Privacy Shield**
+Real-time shoulder surfing detection system using Computer Vision — auto screen blur & lock when unauthorized viewer detected.
+[View Project](https://github.com/SyedaJuveriya/ai-privacy-shield)
+
+🖊️ **Signature Fraud Detection System**
 Real-time fraud detection in handwritten signatures using advanced image processing and machine learning techniques.
+[View Project](https://github.com/SyedaJuveriya/Signature-Detection)
 
-### 🧠 Machine Learning Applications
-Built intelligent systems and predictive models using machine learning algorithms and data-driven approaches.
+🤖 **GitHub Dev Card Generator**
+AI-powered GitHub developer card generator built using FastAPI, ADK, MCP, and Gemini CLI.
+[View Project](https://github.com/SyedaJuveriya/GitHub-Dev-Card-Generator)
 
-### 📰 Django News Portal
-Dynamic news platform integrated with real-time News API using Django backend framework.
+🥗 **AI Diet Recommendation System**
+Intelligent diet recommendation system using machine learning and data-driven approaches.
+[View Project](https://github.com/SyedaJuveriya/AI-Diet-Recommendation-System)
+
+🎬 **DreamGen**
+AI-powered prototype that converts text prompts into short video previews using generative AI concepts.
+[View Project](https://github.com/SyedaJuveriya/dreamgen)
 
 ---
 
 
-## 🏆 Certifications
+## 🏆 Certifications & Achievements
 
-- Microsoft Azure Fundamentals  
-- Deloitte Australia Technology Job Simulation  
-- Generative AI Workshop  
-- Power BI Workshop  
-- Tableau Certification  
+### 📜 Certifications
+- 🔵 **Microsoft Azure Fundamentals** — Microsoft
+- 🔵 **MS Azure Course Completion** — Microsoft
+- 🟠 **Deloitte Australia Technology Job Simulation** — Deloitte
+- 🤖 **Generative AI Workshop** — Google for Developers
+- 📊 **Tableau** — Tableau
+- ☕ **OOPs in Java** — Certification
+- 🔒 **Cyber Suraksha** — Cybersecurity Certificate
+- 🌐 **GFG x Google** — GeeksforGeeks x Google
+
+### 🥇 Achievements
+- 🏆 **Technoverse Hackathon** — Participant
+- 🧠 **Technova National Quiz** — Certificate of Achievement
 
 ---
 
