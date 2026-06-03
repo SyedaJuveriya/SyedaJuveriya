@@ -156,11 +156,14 @@ Dynamic news platform integrated with real-time News API using Django backend fr
 
 <div align="center">
 
-![Syeda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedaJuveriya&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0969DA&icon_color=0969DA&text_color=24292f)
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=SyedaJuveriya&show_icons=true&theme=default&hide_border=true" alt="Syeda's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaJuveriya&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0969DA&text_color=24292f)
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaJuveriya&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SyedaJuveriya&theme=default&hide_border=true&background=ffffff&ring=0969DA&fire=0969DA&currStreakLabel=0969DA)
+<!-- GitHub Streak Card -->
+<img src="https://streak-stats.demolab.com/?user=SyedaJuveriya&theme=default&hide_border=true&background=ffffff&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" alt="GitHub Streak" />
 </div>
 
 ---
