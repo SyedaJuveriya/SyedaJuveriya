@@ -145,7 +145,7 @@ Dynamic news platform integrated with real-time News API using Django backend fr
 - 🧠 **Technova National Quiz** — Certificate of Achievement
 - 🏹 **YOLO Badge** — GitHub
 - ✏️ **Quickdraw Badge** — GitHub
-- 🦈 **GitHub Shark** — GitHub
+- 🦈 **Pull Shark Badge** — GitHub
 
 </td>
 </tr>
@@ -155,13 +155,12 @@ Dynamic news platform integrated with real-time News API using Django backend fr
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SyedaJuveriya&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaJuveriya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
+<!-- GitHub Stats Section -->
+<p align="center">
+  <img src="https://github-readme-stats-six-rebel.vercel.app/api?username=SyedaJuveriya&show_icons=true&theme=default&hide_border=true" alt="Syeda's GitHub Stats" />
+  <img src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=SyedaJuveriya&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=SyedaJuveriya&theme=default&hide_border=true&background=ffffff&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" alt="GitHub Streak" />
+</p>
 
 ---
 
