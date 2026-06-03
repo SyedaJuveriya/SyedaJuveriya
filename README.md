@@ -1,47 +1,48 @@
-<h1 align="center">Hello World 👋, This is Syeda Juveriya</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Data Science Undergraduate • Machine Learning • Deep Learning • Python
-</h3>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Syeda+Juveriya+%F0%9F%91%8B;AI+%26+Data+Science+Engineer;Building+Intelligent+Systems;Turning+Ideas+into+Reality+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p align="center">
-Building intelligent systems and AI-powered applications through code, creativity and problem solving.
-</p>
+<br/>
+
+**AI & Data Science Undergraduate • Machine Learning • Computer Vision • Python**
+
+*Building intelligent systems and AI-powered applications through code, creativity and problem solving.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedajuveriya)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedaJuveriya)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science  
-- 🧠 Built intelligent applications using machine learning and AI-driven technologies  
-- ⚡ Interested in deep learning, backend systems and real-world problem solving  
-- 🌱 Currently learning advanced machine learning, Django and cloud technologies  
+- 🎓 B.Tech in **Artificial Intelligence & Data Science** — Shadan Women's College of Engineering & Technology, Hyderabad
+- 🤖 Building intelligent applications using **Machine Learning** and **AI-driven technologies**
+- 👁️ Passionate about **Computer Vision**, deep learning and real-world problem solving
+- 🌱 Currently exploring **Cloud Technologies**, advanced ML and agentic AI systems
+- ⚡ Fun fact: I build AI systems that protect your privacy while you work!
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<div align="left">
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -49,63 +50,138 @@ Building intelligent systems and AI-powered applications through code, creativit
 
 ## 📌 Featured Projects
 
-🔥 **AI Privacy Shield**
-Real-time shoulder surfing detection system using Computer Vision — auto screen blur & lock when unauthorized viewer detected.
-[View Project](https://github.com/SyedaJuveriya/ai-privacy-shield)
+<table>
+<tr>
+<td width="50%">
 
-🖊️ **Signature Fraud Detection System**
-Real-time fraud detection in handwritten signatures using advanced image processing and machine learning techniques.
-[View Project](https://github.com/SyedaJuveriya/Signature-Detection)
+### 🛡️ AI Privacy Shield
+Real-time shoulder surfing detection using Computer Vision. Auto screen blur & lock when unauthorized viewer detected.
 
-🤖 **GitHub Dev Card Generator**
-AI-powered GitHub developer card generator built using FastAPI, ADK, MCP, and Gemini CLI.
-[View Project](https://github.com/SyedaJuveriya/GitHub-Dev-Card-Generator)
+**Stack:** Python • OpenCV • Flask • Tkinter
 
-🥗 **AI Diet Recommendation System**
-Intelligent diet recommendation system using machine learning and data-driven approaches.
-[View Project](https://github.com/SyedaJuveriya/AI-Diet-Recommendation-System)
+[![View Project](https://img.shields.io/badge/View_Project-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedaJuveriya/ai-privacy-shield)
 
-🎬 **DreamGen**
-AI-powered prototype that converts text prompts into short video previews using generative AI concepts.
-[View Project](https://github.com/SyedaJuveriya/dreamgen)
+</td>
+<td width="50%">
+
+### 🖊️ Signature Fraud Detection
+Real-time fraud detection in handwritten signatures using advanced image processing and ML techniques.
+
+**Stack:** Python • OpenCV • Machine Learning • Jupyter
+
+[![View Project](https://img.shields.io/badge/View_Project-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedaJuveriya/Signature-Detection)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 GitHub Dev Card Generator
+AI-powered GitHub developer card generator built using modern AI tooling and APIs.
+
+**Stack:** FastAPI • ADK • MCP • Gemini CLI • CSS
+
+[![View Project](https://img.shields.io/badge/View_Project-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedaJuveriya/GitHub-Dev-Card-Generator)
+
+</td>
+<td width="50%">
+
+### 🥗 AI Diet Recommendation System
+Intelligent personalized diet recommendation system using ML algorithms and data-driven approaches.
+
+**Stack:** Python • Scikit-learn • Machine Learning
+
+[![View Project](https://img.shields.io/badge/View_Project-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedaJuveriya/AI-Diet-Recommendation-System)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎬 DreamGen
+AI-powered application that converts text prompts into short video previews using generative AI concepts.
+
+**Stack:** Python • Streamlit • Generative AI
+
+[![View Project](https://img.shields.io/badge/View_Project-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedaJuveriya/dreamgen)
+
+</td>
+<td width="50%">
+
+### 📰 Django News Portal
+Dynamic news platform integrated with real-time News API using Django backend framework.
+
+**Stack:** Python • Django • REST API • HTML/CSS
+
+[![View Project](https://img.shields.io/badge/View_Project-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedaJuveriya/newsProject)
+
+</td>
+</tr>
+</table>
 
 ---
 
-
 ## 🏆 Certifications & Achievements
+
+<table>
+<tr>
+<td width="50%">
 
 ### 📜 Certifications
 - 🔵 **Microsoft Azure Fundamentals** — Microsoft
 - 🔵 **MS Azure Course Completion** — Microsoft
 - 🟠 **Deloitte Australia Technology Job Simulation** — Deloitte
 - 🤖 **Generative AI Workshop** — Google for Developers
+- 🌐 **GFG x Google** — GeeksforGeeks × Google
 - 📊 **Tableau** — Tableau
-- ☕ **OOPs in Java** — Certification
-- 🔒 **Cyber Suraksha** — Cybersecurity Certificate
-- 🌐 **GFG x Google** — GeeksforGeeks x Google
+- ☕ **OOPs in Java**
+- 🔒 **Cyber Suraksha** — Cybersecurity
+
+</td>
+<td width="50%">
 
 ### 🥇 Achievements
 - 🏆 **Technoverse Hackathon** — Participant
 - 🧠 **Technova National Quiz** — Certificate of Achievement
+- 🏹 **YOLO Badge** — GitHub
+- ✏️ **Quickdraw Badge** — GitHub
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Syeda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedaJuveriya&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0969DA&icon_color=0969DA&text_color=24292f)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaJuveriya&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0969DA&text_color=24292f)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyedaJuveriya&theme=default&hide_border=true&background=ffffff&ring=0969DA&fire=0969DA&currStreakLabel=0969DA)
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/syedajuveriya/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedajuveriya)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedajuveriya00@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedaJuveriya)
 
-<a href="mailto:syedajuveriya00@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-✨ Turning ideas into intelligent systems through AI and code ✨
-</p>
+<div align="center">
+
+*"Turning ideas into intelligent systems through AI and code"* ✨
+
+![Profile Views](https://komarev.com/ghpvc/?username=SyedaJuveriya&color=0969DA&style=flat-square&label=Profile+Views)
+
+</div>
