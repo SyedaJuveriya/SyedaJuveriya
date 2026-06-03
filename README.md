@@ -160,8 +160,7 @@ Dynamic news platform integrated with real-time News API using Django backend fr
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaJuveriya&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0969DA&text_color=24292f)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyedaJuveriya&theme=default&hide_border=true&background=ffffff&ring=0969DA&fire=0969DA&currStreakLabel=0969DA)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=SyedaJuveriya&theme=default&hide_border=true&background=ffffff&ring=0969DA&fire=0969DA&currStreakLabel=0969DA)
 </div>
 
 ---
